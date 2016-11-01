@@ -201,11 +201,31 @@ h6 {
 
 .img-responsive1 {
     padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
-    padding-bottom: 100px;
+    padding-bottom: 200px;
     padding-right: 200px;
     text-align: center;
     color: #f8f8f8;
-    background-image: asset-url('intro-bg.jpg');
+    background-image: asset-url('home1.jpg');
+    background-size: cover;
+}
+
+.img-responsive2 {
+    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 200px;
+    padding-right: 200px;
+    text-align: center;
+    color: #f8f8f8;
+    background-image: asset-url('homeimg2.png');
+    background-size: cover;
+}
+
+.img-responsive3 {
+    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 200px;
+    padding-right: 200px;
+    text-align: center;
+    color: #f8f8f8;
+    background-image: asset-url('home3.jpg');
     background-size: cover;
 }
 
